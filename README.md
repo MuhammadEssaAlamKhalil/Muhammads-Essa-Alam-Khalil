@@ -1,8 +1,8 @@
-# Muhammad-Essa-Alam-Khalil
+# Muhammad Essa Alam Khalil
 
 ## About Me
 
-# Hi 👋, I'm Muhammad Essa Alam Khalil
+# Hi, I'm Muhammad Essa Alam Khalil
 
 🎓 Master's Student in Computer Science at Linyi University, China  
 🔬 Graduate Research Assistant at DUI Lab  
